@@ -1,0 +1,19 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    max-width: 90vw;
+    height: auto;
+}
+.btncontainer{
+    text-align: center;
+}
+.btncontainer button{
+    width: 95vw;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 4px;
+    font-weight: bold;
+}
