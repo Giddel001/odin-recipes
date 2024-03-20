@@ -1,0 +1,14 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.recipe-container{
+    text-align: center;
+    
+}
+.recipe-container li{
+   text-align: left;
+}
+.recipe-container a{
+    text-decoration: none;
+    color: black;
+}
